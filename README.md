@@ -2,7 +2,7 @@
 It is a python based Client Server model that supports multi-threading.
 You need to create a mySQL database first with database name : "client_server" and table name "records".
 
-Table can be made through this code:
+# Table can be made through this code:
 create table records(id int primary key auto_increment,name varchar(30),pass varchar(30),email varchar(30),age varchar(5))
 
 # Steps to run:

@@ -9,7 +9,7 @@ create table records(id int primary key auto_increment,name varchar(30),pass var
 1) type "python server2.py" in command prompt first.
 2) type "python client.py" in command prompt.
 
-Note: Kepp in mind to change the directory in command prompt that holds these files.
+Note: Keep in mind to change the directory in command prompt that holds these files.
 
 Since it supports multi-threading, you can open upto five client.py files simultaneously.
  
